@@ -1,0 +1,9 @@
+#index-card-style {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#img-card {
+    width: 100%;
+    height: 8em;
+}
